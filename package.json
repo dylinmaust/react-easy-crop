@@ -43,11 +43,11 @@
     "npm:publish": "np --contents=dist"
   },
   "peerDependencies": {
+    "preact": "8.2.9",
     "react": ">=16.4.0",
     "react-dom": ">=16.4.0"
   },
   "dependencies": {
-    "preact": "8.2.9",
     "preact-compat": "^3.19.0",
     "tslib": "2.0.1"
   },
